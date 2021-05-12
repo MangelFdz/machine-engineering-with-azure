@@ -14,7 +14,7 @@ A detailed list of steps consist of the following:
 - Swagger Documentation
 - Consume model endpoints
 - Create and publish a pipeline
-- Documentation
+- Documentation (README.md file)
 
 
 ## Architectural Diagram
@@ -29,10 +29,26 @@ After the AutoML run is completed, we deploy the best model inside an Azure Cont
 
 ## Key Steps
 
-### Step 1 - Authentication
-Authentication is crucial for the continuous flow of operations. Continuous Integration and Delivery system (CI/CD) rely on uninterrupted flows. When authentication is not set properly, it requires human interaction and thus, the flow is interrupted. An ideal scenario is that the system doesn't stop waiting for a user to input a password. So whenever possible, it's good to use authentication with automation.Authentication types 1. Key Based 2.Token based 3. Interactive
+### Step 1 - Authentication (Skipped)
+Authentication is crucial for the continuous flow of operations. Continuous Integration and Delivery system (CI/CD) rely on uninterrupted flows. When authentication is not set properly, it requires human interaction and thus, the flow is interrupted. An ideal scenario is that the system doesn't stop waiting for a user to input a password. So whenever possible, it's good to use authentication with automation. Authentication types 
+1. Key Based 
+2. Token based 
+3. Interactive
 
-Udacity Classroom - "If you are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal".So, this step is skipped in Azure.
+Udacity Classroom - "If you are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal". So, this step is skipped in Azure.
+
+### Step 2 - Automated ML experiment
+
+### Step 3 - Deploy the best model
+
+### Step 4 - Enable logging
+
+### Step 5 - Swagger Documentation
+
+### Step 6 - Consume model endpoints
+
+### Step 7 - Create and publish a pipeline
+
 
 
 ## Screen Recording
