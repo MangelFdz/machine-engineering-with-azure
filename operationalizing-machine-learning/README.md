@@ -39,28 +39,34 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 ### Step 2 - Automated ML experiment
 1. Create a new Automated ML run
-![Step1.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/1-create-a-new-automated-ml-run.jpg)
+![Step2.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/1-create-a-new-automated-ml-run.jpg)
 
 2 - Select dataset
-![Step1.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/2-select-dataset.jpg)
+![Step2.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/2-select-dataset.jpg)
 
 3 - Create new experiment
-![Steps1.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/3-create-new-experiment.jpg)
+![Steps2.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/3-create-new-experiment.jpg)
 
 4 - Configure new compute cluster
-![Steps1.4](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/4-configure-new-compute-cluster.jpg)
+![Steps2.4](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/4-configure-new-compute-cluster.jpg)
 
 5 - Run experiment
-![Steps1.5](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/5-run-experiment.jpg)
+![Steps2.5](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-run-experiment.jpg)
 
 6 - Completed experiment
-![Steps1.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/5-completed-experiment.jpg)
+![Steps2.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-completed-experiment.jpg)
 
 7 - Best model
-![Steps1.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/5-best-model.jpg)
+![Steps2.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-best-model.jpg)
 
 
 ### Step 3 - Deploy the best model
+1 - Select best model
+![Steps3.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step3-deploy-the-best-model/1-select-best-model.jpg)
+
+2 - Deploy best model
+![Steps3.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step3-deploy-the-best-model/2-deploy-best-model.jpg)
+
 
 ### Step 4 - Enable logging
 
