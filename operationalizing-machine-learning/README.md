@@ -38,6 +38,16 @@ Authentication is crucial for the continuous flow of operations. Continuous Inte
 Udacity Classroom - "If you are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal". So, this step is skipped in Azure.
 
 ### Step 2 - Automated ML experiment
+1. Create a new Automated ML run
+![Step1.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/1-create-a-new-automated-ml-run.jpg)
+2 - Select dataset
+![Step1.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/2-select-dataset.jpg)
+3 - Create new experiment
+![Steps1.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/3-create-new-experiment.jpg)
+4 - configure new compute cluster
+![Steps1.4](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/4-configure-new-compute-cluster.jpg)
+
+
 
 ### Step 3 - Deploy the best model
 
