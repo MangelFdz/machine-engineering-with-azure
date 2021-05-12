@@ -18,13 +18,22 @@ A detailed list of steps consist of the following:
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ![Steps](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/steps.PNG)
 
+First step is configuring authentication, then we create an AutoML experiment which consist of: 
+- importing the dataset,
+- configuring the run and 
+- setting up the environmet for AutoML run.
+After the AutoML run is completed, we deploy the best model inside an Azure Container Instance. Then we enable the application insights using the script file *logs.py*. Next step is creating swagger documentation to build the API documentation easily (we do this with the file *swagger.json*). Next step is to consume the model via *endpoint.py* and benchmarking is done via *benchmark.sh*. Finally the pipeline is created, published and consumed.
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+
+### Step 1 - Authentication
+Authentication is crucial for the continuous flow of operations. Continuous Integration and Delivery system (CI/CD) rely on uninterrupted flows. When authentication is not set properly, it requires human interaction and thus, the flow is interrupted. An ideal scenario is that the system doesn't stop waiting for a user to input a password. So whenever possible, it's good to use authentication with automation.Authentication types 1. Key Based 2.Token based 3. Interactive
+
+Udacity Classroom - "If you are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal".So, this step is skipped in Azure.
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
