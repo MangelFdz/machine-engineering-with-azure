@@ -70,6 +70,8 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 ### Step 4 - Enable logging
 
+1 - 
+
 ### Step 5 - Swagger Documentation
 
 ### Step 6 - Consume model endpoints
