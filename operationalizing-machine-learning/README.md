@@ -111,19 +111,19 @@ You can consume a deployed service via an HTTP API. An HTTP API is a URL that is
 
 In this final set of steps we will move to the notebook to create and publish the pipeline:
 
-![Steps7.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/2-create-compute-instance.jpg)
+![Steps7.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/2-create-compute-instance.jpg)
 
-![Steps7.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/2-run-automl.jpg)
+![Steps7.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/2-run-automl.jpg)
 
-![Steps7.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/3-run-completed.jpg)
+![Steps7.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/3-run-completed.jpg)
 
-![Steps7.4](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/4-pipeline-deployed.jpg)
+![Steps7.4](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/4-pipeline-deployed.jpg)
 
-![Steps7.5](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/5-pipeline-endpoint.jpg)
+![Steps7.5](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/5-pipeline-endpoint.jpg)
 
-![Steps7.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/6-pipeline-gui.jpg)
+![Steps7.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/6-pipeline-gui.jpg)
 
-![Steps7.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/7-pipeline-overview.jpg)
+![Steps7.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/7-pipeline-overview.jpg)
 
 
 
