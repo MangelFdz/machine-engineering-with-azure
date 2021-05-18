@@ -73,13 +73,24 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 1 - Modifying the logs.py file:
 ![Steps4.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/1-modyfing-logs-script.jpg)
 
+2 - Running logs.py to enable app insights:
 ![Steps4.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/2-running-logs-file.jpg)
 
+3 - Check the app insights is enable:
+![Steps4.2.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/3-check-app-insight-enabled.jpg)
+![Steps4.2.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/4-check-logs.jpg)
 
 
 ### Step 5 - Swagger Documentation
+Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET. We will use swagger.json file that to create a web site that documents the HTTP endpoint for our deployed model.
+
+![Steps5.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/1-run-swagger-file.jpg)
+
+![Steps5.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/2-)
+
 
 ### Step 6 - Consume model endpoints
+
 
 ### Step 7 - Create and publish a pipeline
 
