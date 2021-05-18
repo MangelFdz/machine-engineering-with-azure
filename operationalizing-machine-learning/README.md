@@ -71,6 +71,10 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ### Step 4 - Enable logging
 
 1 - Modifying the logs.py file:
+![Steps4.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/1-modyfing-logs-script.jpg)
+
+![Steps4.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step4-enable-logging/2-running-logs-file.jpg)
+
 
 
 ### Step 5 - Swagger Documentation
