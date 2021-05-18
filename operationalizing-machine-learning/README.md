@@ -54,10 +54,10 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ![Steps2.5](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-run-experiment.jpg)
 
 6 - Completed experiment
-![Steps2.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-completed-experiment.png)
+![Steps2.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-completed-experiment.jpg)
 
 7 - Best model
-![Steps2.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-best-model.png)
+![Steps2.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/5-best-model.jpg)
 
 
 ### Step 3 - Deploy the best model
@@ -70,7 +70,8 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 
 ### Step 4 - Enable logging
 
-1 - 
+1 - Modifying the logs.py file:
+
 
 ### Step 5 - Swagger Documentation
 
