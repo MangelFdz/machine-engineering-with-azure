@@ -19,7 +19,7 @@ A detailed list of steps consist of the following:
 
 ## Architectural Diagram
 
-![Steps](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/steps.PNG)
+![Steps](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step0/steps.PNG)
 
 First step is configuring authentication, then we create an AutoML experiment which consist of: 
 - importing the dataset,
