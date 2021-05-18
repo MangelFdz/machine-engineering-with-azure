@@ -84,9 +84,17 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ### Step 5 - Swagger Documentation
 Swagger is a tool that helps build, document, and consume RESTful web services like the ones you are deploying in Azure ML Studio. It further explains what types of HTTP requests that an API can consume, like POST and GET. We will use swagger.json file that to create a web site that documents the HTTP endpoint for our deployed model.
 
-![Steps5.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/1-run-swagger-file.jpg)
+1 - Run swagger.py to create a container (using docker) to use swagger:
+![Steps5.1.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/1-run-swagger-file.jpg)
 
-![Steps5.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/2-)
+![Steps5.1.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/2-check-i-swagger-running.jpg)
+
+![Steps5.1.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/3-check-ii-swagger-running.jpg)
+
+2 - Run serve.py to create a container (using docker) to use swagger:
+![Steps5.2.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/4-run-server-file.jpg)
+
+![Steps5.2.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/5-check-server-running.jpg)
 
 
 ### Step 6 - Consume model endpoints
