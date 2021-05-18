@@ -57,6 +57,7 @@ Udacity Classroom - "If you are using the lab Udacity provided to you, you can s
 ![Steps2.6](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/6-completed-experiment.jpg)
 
 7 - Best model
+
 ![Steps2.7](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step2-automated-ml-experiment/7-best-model.jpg)
 
 
