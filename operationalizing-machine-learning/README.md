@@ -98,14 +98,14 @@ Swagger is a tool that helps build, document, and consume RESTful web services l
 
 
 ### Step 6 - Consume model endpoints
+You can consume a deployed service via an HTTP API. An HTTP API is a URL that is exposed over the network so that interaction with a trained model can happen via HTTP requests. Users can initiate an input request, usually via an HTTP POST request. HTTP POST is a request method that is used to submit data. The HTTP GET is another commonly used request method. HTTP GET is used to retrieve information from a URL. The allowed requests methods and the different URLs exposed by Azure create a bi-directional flow of information. The APIs exposed by Azure ML will use JSON (JavaScript Object Notation) to accept data and submit responses. It served as a bridge language among different environments.
+
+1 - In order to test the model deployed, we will fill the scoring uri and key values in the endpoint.py file:
+![Steps6.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/1-modifying-uri-and-key.jpg)
+
+![Steps6.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step6-consume-model-endpoints/2-run-endpoint-file.jpg)
 
 
 ### Step 7 - Create and publish a pipeline
 
 
-
-## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
