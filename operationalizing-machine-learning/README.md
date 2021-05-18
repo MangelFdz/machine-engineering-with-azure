@@ -93,7 +93,7 @@ Swagger is a tool that helps build, document, and consume RESTful web services l
 ![Steps5.1.3](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/3-check-ii-swagger-running.jpg)
 
 2 - Run serve.py to create a container (using docker) to use swagger:
-![Steps5.2.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/4-run-server-file.jpg)
+![Steps5.2.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/3-run-server-file.jpg)
 
 ![Steps5.2.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step5-swagger-documentation/5-check-server-running.jpg)
 
