@@ -111,7 +111,7 @@ You can consume a deployed service via an HTTP API. An HTTP API is a URL that is
 
 In this final set of steps we will move to the notebook to create and publish the pipeline:
 
-![Steps7.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/2-create-compute-instance.jpg)
+![Steps7.1](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/1-create-compute-instance.jpg)
 
 ![Steps7.2](https://github.com/MangelFdz/machine-learning-engineering-with-azure/blob/main/operationalizing-machine-learning/images/step7-create-and-publish-a-pipeline/2-run-automl.jpg)
 
